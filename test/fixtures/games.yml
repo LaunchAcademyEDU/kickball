@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  team_1_name: MyString
+  team_2_name: MyString
+  team_1_score: 1
+  team_2_score: 1
+  team_1_captain: MyString
+  team_2_captain: MyString
+  played_on: 2013-08-19
+
+two:
+  team_1_name: MyString
+  team_2_name: MyString
+  team_1_score: 1
+  team_2_score: 1
+  team_1_captain: MyString
+  team_2_captain: MyString
+  played_on: 2013-08-19
